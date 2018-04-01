@@ -6,7 +6,7 @@ Report  1. (Required) Authenticated Short code Tags
 - Vulnerability types:  Cross Site Scripting
 - Tested in version:  WP 4.2   
 - Fixed in version:   WP 4.3
-- [X] GIF Walkthrough:     
+- [X] GIF Walkthrough: <img src="https://github.com/Jaz5zk/Week-7-HW-Net-Sec/blob/master/AuthenticatedShortCodeTags.gif" width="800">    
 - [X] Steps to recreate:   create a page with a mouseover alert and it causes an attack to fail 
 - [X] Affected source code:   
 TEST!!![caption width="1" caption='<a href="' ">]</a><a href="http://onMouseOver='alert(1)'">Click me</a>
