@@ -31,7 +31,7 @@ http://www.example.com/wp-content/themes/twentyfifteen/genericons/example.html#1
 - Vulnerability types:   Cross site scripting  
 - Tested in version:     4.2
 - Fixed in version:    4.2.13
-- [X] GIF Walkthrough:    
+- [X] GIF Walkthrough:    <img src="https://github.com/Jaz5zk/Week-7-HW-Net-Sec/blob/master/YoutubeXSS.gif" width="800">
 - [X] Steps to recreate:   Copy youtube url given through the blog page you can access after running wpscan in your kali vm. This blog will have a youtube url that you embed into the sample page to cause an error. 
 - [X] Affected source code: 
 https://youtube[.]com/watch?v=abc<svg onload=alert(1)>
