@@ -18,7 +18,7 @@ TEST!!![caption width="1" caption='<a href="' ">]</a><a href="http://onMouseOver
 - Vulnerability types:     Cross site Scripting
 - Tested in version:    4.2 
 - Fixed in version:    4.2.2
-- [X] GIF Walkthrough:    
+- [X] GIF Walkthrough:    <img src="https://github.com/Jaz5zk/Week-7-HW-Net-Sec/blob/master/UnAuthenticatedGenericons.gif" width="800">
 - [X] Steps to recreate:    Go to the example page and edit in this alert: http://www.example.com/wp-content/themes/twentyfifteen/genericons/example.html#1<img/ src=1 onerror= alert(1)>
 which will cause an error once the page is visited
 -	[X] Affected source code:     
